@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.scrollspy-example {
+    padding-top: 0;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar img {
+    border-radius: 50%;
+}
+
+.carousel-item img {
+    height: 620px;
+    object-fit: cover;
+    filter: brightness(70%);
+}
+
+.carousel-caption h5 {
+    font-size: 2.3rem;
+    font-weight: bold;
+}
+
+.carousel-caption p {
+    font-size: 1.3rem;
+}
+
+.Inicio, 
+.Noticias,
+.Contácto {
+    margin: 40px auto;
+    padding: 20px;
+}
+
+h4 {
+    text-align: center;
+    margin-bottom: 25px;
+    font-weight: bold;
+    color: #155724;
+}
+
+.Noticias {
+    text-align: center;
+}
+
+.Noticias .card {
+    margin: 30px;
+    width: 20rem;
+    display: inline-block;
+}
+
+.Noticias .card img {
+    height: 190px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 0.9rem;
+}
+
+.btn-primary {
+    background-color: #198754;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #157347;
+}
+
+form {
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+label {
+    font-weight: bold;
+}
+
+footer p {
+    font-size: 14px;
+}
